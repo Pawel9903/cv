@@ -3,10 +3,6 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="PhpAnalysisConfiguration" call_tree_analysis_depth="0" />
-  <component name="ProjectDictionaryState">
-    <dictionary name="sebastiank" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
