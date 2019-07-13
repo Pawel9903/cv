@@ -2,101 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d07ea45-cce8-4d33-b24d-96f66aeae2fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sebastiank.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/color-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/color-green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/color-purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/color-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/color-yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/pe-icon-7-stroke.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/pogo-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/responsiveslides.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/splitlayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home_personal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/me-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/work-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/slide-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/slide-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/slide-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/client_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/client_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/client_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/client_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/MINI_custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.alterclass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.fittext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.matchHeight-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.mb.YTPlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.pogo-slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modernizr.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/nasa-particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/responsiveslides.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/typed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cv.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/custom/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/custom/profile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/custom/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,36 +14,75 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable path="/usr/local/bin/composer" />
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="1148" lean-forward="true" selection-start-line="1148" selection-end-line="1148" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="123">
+              <caret line="165" column="50" selection-start-line="165" selection-start-column="50" selection-end-line="165" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/custom/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/custom/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.js</find>
       <find>.css</find>
+      <find>profile.jp</find>
+      <find>pobierz</find>
+      <find>dośw</find>
+      <find>jquery</find>
+      <find>responsibi</find>
+      <find>,</find>
+      <find>201</find>
+      <find>r.</find>
+      <find>services</find>
+      <find>Certyfikat Auditora</find>
+      <find>test</find>
+      <find>537 032 318</find>
+      <find>paulina skuko</find>
     </findStrings>
     <replaceStrings>
       <replace>.js')}}</replace>
       <replace>.css')}}</replace>
+      <replace>&lt;li&gt;</replace>
+      <replace>,&lt;/li&gt;</replace>
+      <replace>&lt;b&gt;201</replace>
+      <replace>r.&lt;/b&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -143,6 +92,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/public/js/custom/custom.js" />
+        <option value="$PROJECT_DIR$/public/css/custom/custom.css" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
       </list>
     </option>
@@ -244,10 +195,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
-    <option name="y" value="47" />
-    <option name="width" value="1279" />
-    <option name="height" value="701" />
+    <option name="x" value="70" />
+    <option name="y" value="27" />
+    <option name="width" value="648" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -255,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,18 +219,41 @@
               <item name="cv" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/custom" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -297,6 +272,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/custom" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -329,26 +305,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562692832213</updated>
-      <workItem from="1562692834569" duration="1632000" />
+      <workItem from="1562692834569" duration="2003000" />
+      <workItem from="1562998116954" duration="14322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1632000" />
+    <option name="totallyTimeSpent" value="16325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2496" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -356,10 +328,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,13 +384,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/profile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/custom/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/custom/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="1148" lean-forward="true" selection-start-line="1148" selection-end-line="1148" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="123">
+          <caret line="165" column="50" selection-start-line="165" selection-start-column="50" selection-end-line="165" selection-end-column="50" />
         </state>
       </provider>
     </entry>

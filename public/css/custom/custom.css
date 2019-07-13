@@ -1,0 +1,44 @@
+.profile {
+    margin-bottom: 80px;
+}
+
+.profile img {
+    box-shadow: none;
+    border-radius: 10%;
+}
+
+.display-table-cell {
+    background-color: #778899;
+}
+
+.responsibility {
+    display: none;
+}
+
+.responsibility-hide {
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.responsibility-link {
+    cursor: pointer;
+    width: 100%;
+    display: block;
+    font-size: 15px;
+}
+
+.content b{
+    display: block;
+}
+
+.year-list {
+    font-weight: bold;
+}
+
+.cv-link {
+    font-size: 14px;
+}
+
+.info-body {
+    color: white !important;
+}
