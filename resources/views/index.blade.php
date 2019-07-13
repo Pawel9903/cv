@@ -359,7 +359,7 @@
                                                         <li>weryfikacja procedur, polityki bezpieczeństwa żywności oraz GMP + B3, księgi HACCP ,</li>
                                                         <li>pełnienie roli pełnomocnika ds. HACCP,</li>
                                                         <li>przeprowadzanie wewnętrznych audytów i inspekcji,</li>
-                                                        <li>przeprowadzanie szkoleń wewnętrznych dotyczących systemu ISO 22000, GMP + B3,</li>
+                                                        <li>przeprowadzanie szkoleń wewnętrznych dotyczących systemu ISO 22000, GMP + B3,
                                                         ogólnych zasad GHP/GMP obowiązujących w zakładzie, procedur,</li>
                                                         <li>przedstawiciel w trakcie audytów jednostek certyfikujących oraz podczas inspekcji
                                                         weterynaryjnych i sanitarno-epidemiologicznych,</li>

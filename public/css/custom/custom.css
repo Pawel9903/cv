@@ -35,10 +35,22 @@
     font-weight: bold;
 }
 
+.resume .item {
+    padding-bottom: 40px;
+}
+
 .cv-link {
     font-size: 14px;
 }
 
 .info-body {
     color: white !important;
+}
+
+.service_content ul li {
+    margin-bottom: 20px !important;
+}
+
+.content ul li {
+    margin-bottom: 10px;
 }
