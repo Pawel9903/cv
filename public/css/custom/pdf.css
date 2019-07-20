@@ -1,5 +1,18 @@
+body {
+    background-color: white;
+    font-family: DejaVu Sans, sans-serif;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.left-section{
+    text-align: center;
+}
+
 .profile {
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 
 .profile img {
@@ -41,7 +54,6 @@
 
 .cv-link {
     font-size: 14px;
-    font-weight: bold !important;
 }
 
 .info-body {
@@ -55,3 +67,37 @@
 .content ul li {
     margin-bottom: 10px;
 }
+
+.info-title {
+    font-size: 11px;
+}
+
+.info-body {
+    color: #0b0b0b !important;
+    font-size: 11px;
+}
+
+.item {
+    height: 20px;
+}
+
+.item-list {
+    text-align: left;
+    margin: 20px 30px;
+}
+
+.name {
+    color: black;
+    font-size: 20px;
+}
+
+.cv-title {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+.section-title {
+    font-size: 28px;
+}
+

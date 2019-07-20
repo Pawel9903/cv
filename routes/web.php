@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::post('/mail', 'Controller@sendMail')->name('mail');
+Route::get('/generate-pdf','Controller@generatePDF')->name('pdf');

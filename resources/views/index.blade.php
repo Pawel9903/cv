@@ -10,7 +10,7 @@
     <title>Paulina Skukowska - CV</title>
 
     <!-- favicon -->
-    <link id="favicon" rel="icon" type="image/png" href="{{asset('images/favicon.ico')}}">
+    <link id="favicon" rel="icon" type="image/png" href="{{asset('images/custom/favicon.ico')}}">
 
     <!-- Google Fonts-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700">
@@ -122,7 +122,7 @@
                                         <span class="info-body">537 032 318</span>
                                     </div>
 
-                                    <a href="#">POBIERZ CV W PDF</a>
+                                    <a href="{{ route('pdf') }}">POBIERZ CV W PDF</a>
                                     <a href="#contact" class="goToSec">NAPISZ DO MNIE</a>
 
                                 </div><!--.more_info-->
@@ -160,11 +160,11 @@
                     <h1>
                         <span>Paulina Skukowska</span>
                     </h1>
-                    <b class="cv-link">POBIERZ CV W PDF</b>
+                    <a class="cv-link" href="{{ route('pdf') }}">POBIERZ CV W PDF</a>
                     <div class="menu">
                         <!--Social links-->
                         <div class="social-icons">
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/paulina-skukowska-52950615b/">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                         </div>
@@ -600,14 +600,15 @@
                                         </svg>
                                     </h3>
                                     <div class="contact_form">
-                                        <form action="send.php" method="post">
+                                        <form action="/mail" method="post">
+                                            @csrf
                                             <input placeholder="Imię i nazwiko / Firma" name="name" type="text" class="form-control">
                                             <input placeholder="E-mail" name="email" type="email" class="form-control">
                                             <textarea placeholder="Wiadomość" name="message" class="form-control"></textarea>
                                             <div class="submit btn btn-lg btn-success btn-block">Wyślij</div>
                                             <!--Contact form message-->
-                                            <div class="msg_success"><p>Your message has been sent. Thank you!</p></div>
-                                            <div class="msg_error"><p>Sorry your message can not be sent.</p></div>
+                                            <div class="msg_success"><p>Wiadomość została wysłana pomyślnie. Dziękuje.</p></div>
+                                            <div class="msg_error"><p>Nie udało się wysłać wiadomości.</p></div>
                                             <!--End contact form message-->
                                         </form>
                                     </div>
